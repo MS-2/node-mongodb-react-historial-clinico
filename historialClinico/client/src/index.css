@@ -1,0 +1,30 @@
+
+#container > div {
+    display: flex;
+  }
+
+  /* body{
+    background-color: bisque;
+  } */
+
+  #flex-start {
+    justify-content: flex-start;
+  }
+
+  #center{
+    text-align: center;
+  }
+
+  /* .btn {
+    background-color: #008CBA;
+    border: none;
+    color: #FFFFFF;
+    padding: 15px 32px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    margin: 16px 0 !important;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+} */
